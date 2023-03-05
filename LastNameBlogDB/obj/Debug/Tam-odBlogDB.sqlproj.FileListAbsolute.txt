@@ -1,0 +1,6 @@
+C:\Users\Elijah Panget\source\repos\Tam-odLE2\LastNameBlogDB\bin\Debug\Tam-odBlogDB.dacpac
+C:\Users\Elijah Panget\source\repos\Tam-odLE2\LastNameBlogDB\bin\Debug\LastNameBlogDB.dll
+C:\Users\Elijah Panget\source\repos\Tam-odLE2\LastNameBlogDB\bin\Debug\LastNameBlogDB.pdb
+C:\Users\Elijah Panget\source\repos\Tam-odLE2\LastNameBlogDB\obj\Debug\Tam-odBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Elijah Panget\source\repos\Tam-odLE2\LastNameBlogDB\obj\Debug\LastNameBlogDB.dll
+C:\Users\Elijah Panget\source\repos\Tam-odLE2\LastNameBlogDB\obj\Debug\LastNameBlogDB.pdb
